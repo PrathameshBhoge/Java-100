@@ -10,5 +10,6 @@ public class find_the_count_Even_number_in_Array {
             }
         }
         System.out.println(count);
+
     }
 }
